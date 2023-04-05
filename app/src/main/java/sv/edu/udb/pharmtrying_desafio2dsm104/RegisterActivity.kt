@@ -1,7 +1,7 @@
 package sv.edu.udb.pharmtrying_desafio2dsm104
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
@@ -24,8 +24,8 @@ class RegisterActivity : AppCompatActivity() {
         auth = FirebaseAuth.getInstance()
 
         //Importando nuestros botones
-        btnRegister = findViewById<Button>(R.id.btnRegister)
-        btnBack = findViewById<Button>(R.id.btnBackRegister)
+        val btnRegister = findViewById<Button>(R.id.btnRegister)
+        val btnBack = findViewById<Button>(R.id.btnBackRegister)
 
         //Registrar nuevo usuario
         btnRegister.setOnClickListener{
