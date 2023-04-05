@@ -8,8 +8,10 @@
     <string name="lbRegisterLogin">¿No tienes usuario?</string>
     <string name="btnlbRegisterLogin">Registra tu usuario</string>
     <!--Register-->
-    <string name="hintEmailRegister">Correo para ingresar...</string>
-    <string name="hintPasswordRegister">Contraseña...</string>
+    <string name="hintEmailRegister">Correo ha registrar como usuario...</string>
+    <string name="hintPasswordRegister">Respectiva contraseña...</string>
+    <string name="lbDescripcionRegister">Para poder registrar tu usuario en Pharma Trying has uso de un correo y una contraseña única con la que podrás ingresar en el programa</string>
     <string name="btnRegister">Registar Usuario</string>
     <string name="btn2Register">Regresar</string>
+    <string name="errorUserExistRegister">El usuario ya existe en la aplicacion, por favor ingreselo en la pantalla LOGIN</string>
 </resources>

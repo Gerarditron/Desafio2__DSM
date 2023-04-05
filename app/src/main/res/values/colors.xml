@@ -9,5 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="blue">#1F618D</color>
     <color name="btn1">#3F51B5</color>
-    <color name="btnSalir">#C0392B</color>
+    <color name="btnExit">#C0392B</color>
+    <color name="btnBack">#717D7E</color>
+
 </resources>

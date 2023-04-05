@@ -8,6 +8,12 @@
     tools:context=".MainActivity">
 
 
-
-
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:text="Aqui deberia haber un listado bien genial de almenos 10 pastillas y medicamentos!" />
 </LinearLayout>
