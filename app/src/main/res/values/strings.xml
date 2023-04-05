@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">PharmTrying -Desafio2 DSM104</string>
+    <string name="app_name">PharmaTrying</string>
+    <!--Login-->
+    <string name="hintEmailLogin">Correo</string>
+    <string name="hintPasswordLogin">Contraseña</string>
+    <string name="btnLogin">Ingresar</string>
+    <string name="btn2Login">Salir</string>
+    <string name="lbRegisterLogin">¿No tienes usuario?</string>
+    <string name="btnlbRegisterLogin">Registra tu usuario</string>
+    <!--Register-->
+    <string name="hintEmailRegister">Correo para ingresar...</string>
+    <string name="hintPasswordRegister">Contraseña...</string>
+    <string name="btnRegister">Registar Usuario</string>
+    <string name="btn2Register">Regresar</string>
 </resources>
