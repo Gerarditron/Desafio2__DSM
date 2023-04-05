@@ -4,7 +4,6 @@
     <string name="hintEmailLogin">Correo</string>
     <string name="hintPasswordLogin">Contraseña</string>
     <string name="btnLogin">Ingresar</string>
-    <string name="btn2Login">Salir</string>
     <string name="lbRegisterLogin">¿No tienes usuario?</string>
     <string name="btnlbRegisterLogin">Registra tu usuario</string>
     <!--Register-->
@@ -14,4 +13,8 @@
     <string name="btnRegister">Registar Usuario</string>
     <string name="btn2Register">Regresar</string>
     <string name="errorUserExistRegister">El usuario ya existe en la aplicacion, por favor ingreselo en la pantalla LOGIN</string>
+    <!--Menu Desplegable-->
+    <string name="menuOpc1">Realizar una Compra</string>
+    <string name="menuOpc2">Historial de Compras</string>
+    <string name="menuOpc3">Cerrar Sesion</string>
 </resources>
